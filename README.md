@@ -12,9 +12,9 @@ It is currently being built with Unity and version controlled with Github/Azure 
 We will soon be creating and linking our YouTube, Discord, Twitter, and Instagram accounts in promotion for this game. 
 ## Our Team 
 
-- Kishuan Espiritu 
-- Jemimah Manalac
-- Bryson Gariepy
-- Zen Ilagan 
-- Andrei Batomunkuev 
-- David McLaughlin
+- Kishuan Espiritu (Design/Development)
+- Jemimah Manalac (Design/Development)
+- Bryson Gariepy (Development)
+- Zen Ilagan (Art/Design)
+- Andrei Batomunkuev (Development)
+- David McLaughlin (Support)
